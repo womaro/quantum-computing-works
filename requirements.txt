@@ -1,0 +1,29 @@
+# Podstawowe
+jupyter
+notebook
+jupyterlab
+ipython
+
+# Quantum - bez pinowania, zawsze najnowsze
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit-machine-learning
+qiskit-optimization
+qiskit-algorithms
+
+cirq
+cirq-google
+
+# Wizualizacja
+matplotlib
+plotly
+
+# Numeryka
+numpy
+scipy
+pandas
+
+# Utilities
+ipykernel
+ipywidgets
