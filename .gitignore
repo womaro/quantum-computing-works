@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.jupyter/
+.DS_Store
+Thumbs.db
+.env
+*.ipynb_checkpoints
+```
